@@ -1,0 +1,6 @@
+{
+  "appId": "com.spiceroute.kitchen",
+  "appName": "Spice Route Kitchen",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
